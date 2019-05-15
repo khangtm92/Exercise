@@ -6,8 +6,6 @@ public class ArrayListDemo {
       // tao mot array list
       ArrayList<String> al = new ArrayList<String>();
       System.out.println("Size ban dau cua ArrayList la: " + al.size());
-
-      // them cac phan tu toi array list
       al.add("C");
       al.add("A");
       al.add("E");
